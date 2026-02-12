@@ -38,103 +38,40 @@
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="96">
-  <a href="https://www.cprogramming.com/">
-    <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-  </a>
-  <br/><b>C</b>
-</td>
-<td align="center" width="96">
-  <a href="https://www.java.com">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  </a>
-  <br/><b>Java</b>
-</td>
-<td align="center" width="96">
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  </a>
-  <br/><b>Python</b>
-</td>
-<td align="center" width="96">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  </a>
-  <br/><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-  <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-  </a>
-  <br/><b>HTML5</b>
-</td>
-<td align="center" width="96">
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-  </a>
-  <br/><b>CSS3</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <a href="https://reactjs.org/">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  </a>
-  <br/><b>React</b>
-</td>
-<td align="center" width="96">
-  <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  </a>
-  <br/><b>Node.js</b>
-</td>
-<td align="center" width="96">
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  </a>
-  <br/><b>MySQL</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="MSSQL" />
-  <br/><b>MSSQL</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br/><b>Git</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <br/><b>GitHub</b>
-</td>
-</tr>
-</table>
-
-<br/>
-
-**Or as a single-line badge:**
-
-<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,mysql,git,github&perline=11" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,mysql,git,github&perline=6" />
 
 </div>
 
 <br/>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
 <div align="center">
 
 ## 📊 &nbsp;GitHub Analytics
 
 <br/>
 
-<!-- Streak Stats (uses a different, more reliable service) -->
-<img width="60%" src="https://streak-stats.demolab.com?user=drowningsun&theme=radical&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FF6EC7&fire=FF4500&currStreakLabel=FF6EC7" alt="Streak Stats"/>
+<!-- Stats Card (using fast fork) -->
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=drowningsun&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+<!-- Streak Stats (using demolab - reliable) -->
+<img width="49%" src="https://streak-stats.demolab.com?user=drowningsun&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats"/>
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drowningsun&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+<!-- Profile Summary Cards (different service, very reliable) -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drowningsun&theme=radical" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drowningsun&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+
+<br/><br/>
+
+<!-- Top Languages from profile-summary-cards -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drowningsun&theme=radical" alt="Top Languages by Repo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drowningsun&theme=radical" alt="Top Languages by Commit"/>
+
+<br/><br/>
+
+<!-- Wide profile details card -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drowningsun&theme=radical" alt="Profile Details"/>
 
 </div>
 
