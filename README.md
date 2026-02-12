@@ -17,28 +17,18 @@
 <br/>
 
 <!-- About Section -->
-<table align="center">
-<tr>
-<td width="50%">
+<div align="center">
 
 ### 🧑‍💻 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🎓 &nbsp;Passionate Full Stack Developer from India\
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently mastering **Python**, **DSA with C** & **OOP with Java**\
-&nbsp;&nbsp;&nbsp;💻 &nbsp;Love building things for the web\
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;Always exploring new technologies\
-&nbsp;&nbsp;&nbsp;📫 &nbsp;Reach me at **tomvinod999@gmail.com**
+🎓 Passionate Full Stack Developer from India\
+🌱 Currently mastering **Python**, **DSA with C** & **OOP with Java**\
+💻 Love building things for the web\
+🚀 Always exploring new technologies\
+📫 Reach me at **tomvinod999@gmail.com**
 
-</td>
-<td width="50%">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drowningsun&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
-</td>
-</tr>
-</table>
 <br/>
 
 <!-- Tech Stack -->
@@ -107,45 +97,44 @@
   <br/><b>MySQL</b>
 </td>
 <td align="center" width="96">
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="MSSQL" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="MSSQL" />
   <br/><b>MSSQL</b>
 </td>
 <td align="center" width="96">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <br/><b>Git</b>
 </td>
 <td align="center" width="96">
-  <a href="https://github.com/drowningsun">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   <br/><b>GitHub</b>
 </td>
 </tr>
 </table>
 
+<br/>
+
+**Or as a single-line badge:**
+
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,mysql,git,github&perline=11" />
+
 </div>
 
 <br/>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Section -->
 <div align="center">
 
 ## 📊 &nbsp;GitHub Analytics
 
 <br/>
 
-<p>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=drowningsun&theme=radical&hide_border=true&background=00000000&stroke=FF6EC7&ring=FF6EC7&fire=FF4500&currStreakLabel=FF6EC7&sideLabels=FF6EC7&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888" alt="Streak Stats"/>
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drowningsun&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6EC7&text_color=FFFFFF" alt="Top Languages"/>
-</p>
+<!-- Streak Stats (uses a different, more reliable service) -->
+<img width="60%" src="https://streak-stats.demolab.com?user=drowningsun&theme=radical&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FF6EC7&fire=FF4500&currStreakLabel=FF6EC7" alt="Streak Stats"/>
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=drowningsun&bg_color=00000000&color=FF6EC7&line=FF6EC7&point=FFFFFF&area_color=FF6EC7&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+<br/><br/>
+
+<!-- Top Languages -->
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drowningsun&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 
 </div>
 
@@ -178,4 +167,4 @@
 <br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20&height=120&section=footer" width="100%"/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20&height=120&section=footer" width="100%"/>
