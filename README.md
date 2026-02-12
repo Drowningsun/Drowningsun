@@ -33,13 +33,12 @@
 <td width="50%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drowningsun&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF&ring_color=FF6EC7" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=drowningsun&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 <!-- Tech Stack -->
